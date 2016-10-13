@@ -1,0 +1,15 @@
+{
+  "name": "try-yarn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "date": "date"
+  },
+  "dependencies": {
+    "@types/react": "^0.14.41",
+    "@types/react-dom": "^0.14.17",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  }
+}
