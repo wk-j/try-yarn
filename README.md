@@ -1,4 +1,4 @@
-## Try Yarno
+## Try Yarn
 
 FAST, RELIABLE, AND SECURE DEPENDENCY MANAGEMENT - https://yarnpkg.com
 
